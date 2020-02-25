@@ -1,6 +1,6 @@
 # Form Validations
 
-### 
+### Number
 
 - Input value need to be round to 2 decimals
 - Only positive numbers
